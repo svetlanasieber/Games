@@ -4,8 +4,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Snake Game 
 
-## Overview
-In this workshop, you will build a snake game from scratch, following the basic principles of Object-Oriented Programming (OOP).
 
 ## Setup
 You are provided with a skeleton, which contains the following items:
